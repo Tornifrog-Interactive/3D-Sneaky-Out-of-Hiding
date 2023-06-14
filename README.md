@@ -7,6 +7,7 @@ Welcome to Sneaky Out of Hiding! This thrilling game puts you in the middle of a
 ## Gameplay 
 ### Objective
 The objective of Zombie Escape is to navigate through a dangerous city infested with zombies and reach your home without getting eaten.
+
 You encounter different kinds of zombies, you have to move with quick decisions and find your home in the darkness.
 
 ### Controls
