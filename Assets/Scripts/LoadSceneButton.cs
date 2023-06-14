@@ -14,7 +14,6 @@ public class LoadSceneButton : MonoBehaviour
 
     void LoadScene()
     {
-        Debug.Log("button pressed");
         SceneManager.LoadScene(sceneName);
     }
 }
